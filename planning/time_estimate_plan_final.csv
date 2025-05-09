@@ -1,0 +1,12 @@
+Task,Time Estimate (S/M/L/XL),Estimated Day,Actual Time Spent (hrs)
+Set up GitHub repo,S,Thursday,
+Admin Console Figma,M,Thursday,
+iOS Meetup App Figma,M,Friday,
+Sequence Diagram,M,Friday,
+Object Model Diagram,M,Friday,
+Smart Contract Logic,XL,Monday,
+Express API & DB Setup,L,Tuesday,
+Connect iOS to API,L,Wednesday,
+Connect Web App to Smart Contract,L,Wednesday,
+Final Video Presentation,M,Thursday,
+Reflection Write-Up,M,Thursday,
