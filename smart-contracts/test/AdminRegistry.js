@@ -8,7 +8,7 @@ describe("AdminRegistry", function () {
     [owner, addr1, addr2] = await ethers.getSigners();
 
     adminRegistry = await ethers.deployContract("AdminRegistry");
-    // No .deployed() needed with ethers.deployContract
+   
   });
 
   it("should deploy with the owner as the first admin", async function () {
