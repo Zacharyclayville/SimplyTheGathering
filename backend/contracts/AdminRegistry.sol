@@ -21,7 +21,6 @@ contract AdminRegistry {
     function removeAdmin(address _admin) external {
         require(msg.sender == owner, "Only owner can remove");
         admins[_admin] = false;
-        // Optional: You can write code to remove from adminList array too if needed
     }
 
     function isVerified(address _user) public view returns (bool) {

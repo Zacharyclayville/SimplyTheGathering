@@ -16,7 +16,9 @@ router.post("/add", async (req, res) => {
 
 router.get("/list", async (req, res) => {
   try {
+    console.log("getting list")
     const admins = await contract.getAdmins();
+    console.log(admins)
     res.json(admins);
   } catch (err) {
     console.error("Error fetching admin list:", err);
