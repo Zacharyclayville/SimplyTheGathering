@@ -1,13 +1,13 @@
 //
-//  simplyGatheringUITestsLaunchTests.swift
-//  simplyGatheringUITests
+//  FinalProjectFrontendUITestsLaunchTests.swift
+//  FinalProjectFrontendUITests
 //
-//  Created by Student on 5/12/25.
+//  Created by Zachary clayville on 5/15/25.
 //
 
 import XCTest
 
-final class simplyGatheringUITestsLaunchTests: XCTestCase {
+final class FinalProjectFrontendUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

@@ -1,13 +1,13 @@
 //
-//  simplyGatheringUITests.swift
-//  simplyGatheringUITests
+//  FinalProjectFrontendUITests.swift
+//  FinalProjectFrontendUITests
 //
-//  Created by Student on 5/12/25.
+//  Created by Zachary clayville on 5/15/25.
 //
 
 import XCTest
 
-final class simplyGatheringUITests: XCTestCase {
+final class FinalProjectFrontendUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

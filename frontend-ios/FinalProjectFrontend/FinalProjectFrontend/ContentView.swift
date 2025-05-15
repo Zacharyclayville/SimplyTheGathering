@@ -1,8 +1,8 @@
 //
 //  ContentView.swift
-//  simplyGathering
+//  FinalProjectFrontend
 //
-//  Created by Student on 5/12/25.
+//  Created by Zachary clayville on 5/15/25.
 //
 
 import SwiftUI
