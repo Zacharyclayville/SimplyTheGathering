@@ -2,7 +2,17 @@
 //  BackgroundView.swift
 //  FinalProjectFrontend
 //
-//  Created by Zachary clayville on 5/15/25.
+//  Created by Zachary Clayville on 5/15/25.
 //
 
-import Foundation
+// BackgroundView.swift
+import SwiftUI
+
+struct BackgroundView: View {
+    var body: some View {
+        Image("backgroundcards")
+            .resizable()
+            .scaledToFill()
+            .ignoresSafeArea()
+    }
+}

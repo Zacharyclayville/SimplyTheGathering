@@ -2,7 +2,7 @@
 //  FinalProjectFrontendApp.swift
 //  FinalProjectFrontend
 //
-//  Created by Zachary clayville on 5/15/25.
+//  Created by Zachary Clayville on 5/15/25.
 //
 
 import SwiftUI
@@ -11,7 +11,7 @@ import SwiftUI
 struct FinalProjectFrontendApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView()
         }
     }
 }
